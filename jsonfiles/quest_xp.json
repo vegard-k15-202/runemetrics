@@ -1,0 +1,3091 @@
+{
+   "Agility": {
+      "quests": [
+         {
+            "quest": "Stolen Hearts",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "Diamond In The Rough",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "The Jack Of Spades",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "Recruitment Drive",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "Missing, Presumed Death",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 1
+         },
+         {
+            "quest": "Underground Pass",
+            "xp": 3000,
+            "lvl": 1
+         },
+         {
+            "quest": "Icthlarin'S Little Helper",
+            "xp": 4000,
+            "lvl": 1
+         },
+         {
+            "quest": "Kennith'S Concerns",
+            "xp": 5000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Grand Tree",
+            "xp": 7900,
+            "lvl": 1
+         },
+         {
+            "quest": "The Darkness Of Hallowvale",
+            "xp": 7000,
+            "lvl": 26
+         },
+         {
+            "quest": "Troll Romance",
+            "xp": 8000,
+            "lvl": 28
+         },
+         {
+            "quest": "Legacy Of Seergaze",
+            "xp": 2000,
+            "lvl": 29
+         },
+         {
+            "quest": "Dishonour Among Thieves",
+            "xp": 1500,
+            "lvl": 30
+         },
+         {
+            "quest": "Cold War",
+            "xp": 5000,
+            "lvl": 30
+         },
+         {
+            "quest": "Back To The Freezer",
+            "xp": 15000,
+            "lvl": 30
+         },
+         {
+            "quest": "Crocodile Tears",
+            "xp": 15000,
+            "lvl": 30
+         },
+         {
+            "quest": "Evil Dave'S Big Day Out",
+            "xp": 20000,
+            "lvl": 30
+         },
+         {
+            "quest": "Land Of The Goblins",
+            "xp": 3000,
+            "lvl": 36
+         },
+         {
+            "quest": "Royal Trouble",
+            "xp": 5000,
+            "lvl": 40
+         },
+         {
+            "quest": "Cabin Fever",
+            "xp": 7000,
+            "lvl": 42
+         },
+         {
+            "quest": "The Chosen Commander",
+            "xp": 20000,
+            "lvl": 46
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing King Awowogei",
+            "xp": 10000,
+            "lvl": 48
+         },
+         {
+            "quest": "Dealing With Scabaras",
+            "xp": 7000,
+            "lvl": 50
+         },
+         {
+            "quest": "Defender Of Varrock",
+            "xp": 2000,
+            "lvl": 51
+         },
+         {
+            "quest": "Back To My Roots",
+            "xp": 15000,
+            "lvl": 55
+         },
+         {
+            "quest": "Regicide",
+            "xp": 13750,
+            "lvl": 56
+         },
+         {
+            "quest": "Mourning'S End Part Ii",
+            "xp": 20000,
+            "lvl": 56
+         },
+         {
+            "quest": "Grim Tales",
+            "xp": 6000,
+            "lvl": 58
+         },
+         {
+            "quest": "Rocking Out",
+            "xp": 25000,
+            "lvl": 60
+         },
+         {
+            "quest": "Kindred Spirits",
+            "xp": 25000,
+            "lvl": 60
+         },
+         {
+            "quest": "The Elder Kiln",
+            "xp": 30000,
+            "lvl": 60
+         },
+         {
+            "quest": "The Curse Of Arrav",
+            "xp": 9000,
+            "lvl": 61
+         },
+         {
+            "quest": "Dimension Of Disaster: Curse Of Arrav",
+            "xp": 9000,
+            "lvl": 61
+         },
+         {
+            "quest": "The Branches Of Darkmeyer",
+            "xp": 20000,
+            "lvl": 63
+         },
+         {
+            "quest": "The Firemaker'S Curse",
+            "xp": 30000,
+            "lvl": 64
+         },
+         {
+            "quest": "The Prisoner Of Glouphrie",
+            "xp": 60000,
+            "lvl": 64
+         },
+         {
+            "quest": "Within The Light",
+            "xp": 35000,
+            "lvl": 69
+         },
+         {
+            "quest": "Fate Of The Gods",
+            "xp": 75000,
+            "lvl": 73
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "Ritual Of The Mahjarrat",
+            "xp": 110000,
+            "lvl": 77
+         },
+         {
+            "quest": "The Light Within",
+            "xp": 90000,
+            "lvl": 80
+         },
+         {
+            "quest": "Children Of Mah",
+            "xp": 100000,
+            "lvl": 80
+         },
+         {
+            "quest": "Pieces Of Hate",
+            "xp": 50000,
+            "lvl": 83
+         },
+         {
+            "quest": "Pieces Of Hate",
+            "xp": 50000,
+            "lvl": 85
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Myths Of The White Lands",
+            "xp": 10000,
+            "lvl": 55
+         },
+         {
+            "quest": "Do No Evil",
+            "xp": 20000,
+            "lvl": 80
+         }
+      ]
+   },
+   "Attack": {
+      "quests": [
+         {
+            "quest": "The Blood Pact",
+            "xp": 100,
+            "lvl": 1
+         },
+         {
+            "quest": "A Shadow Over Ashdale",
+            "xp": 300,
+            "lvl": 1
+         },
+         {
+            "quest": "In Search Of The Myreque",
+            "xp": 600,
+            "lvl": 1
+         },
+         {
+            "quest": "Mountain Daughter",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "A Fairy Tale I - Growing Pains",
+            "xp": 2000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 1
+         },
+         {
+            "quest": "Underground Pass",
+            "xp": 3000,
+            "lvl": 1
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 3075,
+            "lvl": 1
+         },
+         {
+            "quest": "Tree Gnome Village",
+            "xp": 11450,
+            "lvl": 1
+         },
+         {
+            "quest": "Fight Arena",
+            "xp": 12175,
+            "lvl": 1
+         },
+         {
+            "quest": "Waterfall Quest",
+            "xp": 13750,
+            "lvl": 1
+         },
+         {
+            "quest": "Monkey Madness",
+            "xp": 35000,
+            "lvl": 1
+         },
+         {
+            "quest": "In Aid Of The Myreque",
+            "xp": 2000,
+            "lvl": 12
+         },
+         {
+            "quest": "Quiet Before The Swarm",
+            "xp": 4000,
+            "lvl": 35
+         },
+         {
+            "quest": "Toktz-Ket-Dill",
+            "xp": 5000,
+            "lvl": 50
+         },
+         {
+            "quest": "The Mighty Fall",
+            "xp": 80000,
+            "lvl": 79
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Knight Waves Training Grounds",
+            "xp": 20000,
+            "lvl": 1
+         },
+         {
+            "quest": "Tai Bwo Wannai Trio",
+            "xp": 2500,
+            "lvl": 1
+         },
+         {
+            "quest": "Spirit Of Summer",
+            "xp": 11250,
+            "lvl": 50
+         }
+      ]
+   },
+   "Constitution": {
+      "quests": [
+         {
+            "quest": "Stolen Hearts",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "Diamond In The Rough",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "A Shadow Over Ashdale",
+            "xp": 300,
+            "lvl": 1
+         },
+         {
+            "quest": "A Soul'S Bane",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "In Search Of The Myreque",
+            "xp": 600,
+            "lvl": 1
+         },
+         {
+            "quest": "Song From The Depths",
+            "xp": 700,
+            "lvl": 1
+         },
+         {
+            "quest": "Nature Spirit",
+            "xp": 2000,
+            "lvl": 1
+         },
+         {
+            "quest": "Fur 'N Seek",
+            "xp": 2500,
+            "lvl": 1
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 1
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 3075,
+            "lvl": 1
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Sir Amik Varze",
+            "xp": 4000,
+            "lvl": 1
+         },
+         {
+            "quest": "Grim Tales",
+            "xp": 5000,
+            "lvl": 1
+         },
+         {
+            "quest": "Royal Trouble",
+            "xp": 5000,
+            "lvl": 1
+         },
+         {
+            "quest": "Witch'S House",
+            "xp": 6325,
+            "lvl": 1
+         },
+         {
+            "quest": "Missing My Mummy",
+            "xp": 7000,
+            "lvl": 1
+         },
+         {
+            "quest": "Dream Mentor",
+            "xp": 15000,
+            "lvl": 1
+         },
+         {
+            "quest": "Monkey Madness",
+            "xp": 35000,
+            "lvl": 1
+         },
+         {
+            "quest": "Mourning'S End Part I",
+            "xp": 25000,
+            "lvl": 1
+         },
+         {
+            "quest": "Salt In The Wound",
+            "xp": 17000,
+            "lvl": 50
+         },
+         {
+            "quest": "The Firemaker'S Curse",
+            "xp": 76000,
+            "lvl": 76
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Knight Waves Training Ground",
+            "xp": 20000,
+            "lvl": 1
+         },
+         {
+            "quest": "Song From The Depths",
+            "xp": 5000,
+            "lvl": 50
+         },
+         {
+            "quest": "Missing, Presumed Death",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "Song From The Depths",
+            "xp": 25000,
+            "lvl": 80
+         }
+      ]
+   },
+   "Construction": {
+      "quests": [
+         {
+            "quest": "The Jack Of Spades",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Defender Of Varrock",
+            "xp": 2000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Eyes Of Glouphrie",
+            "xp": 250,
+            "lvl": 5
+         },
+         {
+            "quest": "The Darkness Of Hallowvale",
+            "xp": 2000,
+            "lvl": 5
+         },
+         {
+            "quest": "Tower Of Life",
+            "xp": 1000,
+            "lvl": 10
+         },
+         {
+            "quest": "Bringing Home The Bacon",
+            "xp": 350,
+            "lvl": 14
+         },
+         {
+            "quest": "Legacy Of Seergaze",
+            "xp": 1000,
+            "lvl": 20
+         },
+         {
+            "quest": "The Fremennik Isles",
+            "xp": 5000,
+            "lvl": 20
+         },
+         {
+            "quest": "Rune Mechanics",
+            "xp": 900,
+            "lvl": 25
+         },
+         {
+            "quest": "The Great Brain Robbery",
+            "xp": 2000,
+            "lvl": 30
+         },
+         {
+            "quest": "Carnillean Rising",
+            "xp": 2500,
+            "lvl": 31
+         },
+         {
+            "quest": "Cold War",
+            "xp": 1500,
+            "lvl": 34
+         },
+         {
+            "quest": "Spirit Of Summer",
+            "xp": 7500,
+            "lvl": 40
+         },
+         {
+            "quest": "Catapult Construction",
+            "xp": 15000,
+            "lvl": 44
+         },
+         {
+            "quest": "Hunt For Red Raktuber",
+            "xp": 3000,
+            "lvl": 45
+         },
+         {
+            "quest": "A Void Dance",
+            "xp": 5000,
+            "lvl": 47
+         },
+         {
+            "quest": "Some Like It Cold",
+            "xp": 10000,
+            "lvl": 50
+         },
+         {
+            "quest": "Toktz-Ket-Dill",
+            "xp": 20000,
+            "lvl": 50
+         },
+         {
+            "quest": "A Clockwork Syringe",
+            "xp": 15000,
+            "lvl": 62
+         },
+         {
+            "quest": "The Prisoner Of Glouphrie",
+            "xp": 50000,
+            "lvl": 62
+         },
+         {
+            "quest": "Do No Evil",
+            "xp": 30000,
+            "lvl": 64
+         },
+         {
+            "quest": "Love Story",
+            "xp": 50000,
+            "lvl": 68
+         },
+         {
+            "quest": "The Void Stares Back",
+            "xp": 20000,
+            "lvl": 70
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "Nomad'S Elegy",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "The Lord Of Vampyrium",
+            "xp": 75000,
+            "lvl": 79
+         },
+         {
+            "quest": "Pieces Of Hate",
+            "xp": 50000,
+            "lvl": 81
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "In Memory Of The Myreque",
+            "xp": 20000,
+            "lvl": 1
+         }
+      ]
+   },
+   "Cooking": {
+      "quests": [
+         {
+            "quest": "Let Them Eat Pie",
+            "xp": 100,
+            "lvl": 1
+         },
+         {
+            "quest": "Cook'S Assistant",
+            "xp": 300,
+            "lvl": 1
+         },
+         {
+            "quest": "Rag And Bone Man",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "Gertrude'S Cat",
+            "xp": 1525,
+            "lvl": 1
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing The Goblin Generals",
+            "xp": 1000,
+            "lvl": 10
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing The Mountain Dwarf",
+            "xp": 1000,
+            "lvl": 10
+         },
+         {
+            "quest": "Forgettable Tale Of A Drunken Dwarf",
+            "xp": 5000,
+            "lvl": 22
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Evil Dave",
+            "xp": 7000,
+            "lvl": 25
+         },
+         {
+            "quest": "Big Chompy Bird Hunting",
+            "xp": 1470,
+            "lvl": 30
+         },
+         {
+            "quest": "Beneath Cursed Tides",
+            "xp": 5000,
+            "lvl": 30
+         },
+         {
+            "quest": "Evil Dave'S Big Day Out",
+            "xp": 20000,
+            "lvl": 30
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Pirate Pete",
+            "xp": 1000,
+            "lvl": 31
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing The Lumbridge Sage",
+            "xp": 2500,
+            "lvl": 40
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Skrach Uglogwee",
+            "xp": 1500,
+            "lvl": 41
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 2825,
+            "lvl": 53
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Sir Amik Varze",
+            "xp": 4000,
+            "lvl": 53
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing King Awowogei",
+            "xp": 10000,
+            "lvl": 70
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Tai Bwo Wannai Trio",
+            "xp": 5000,
+            "lvl": 30
+         }
+      ]
+   },
+   "Crafting": {
+      "quests": [
+         {
+            "quest": "Goblin Diplomacy",
+            "xp": 200,
+            "lvl": 1
+         },
+         {
+            "quest": "Tower Of Life",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "Fur 'N Seek",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "In Search Of The Myreque",
+            "xp": 600,
+            "lvl": 1
+         },
+         {
+            "quest": "Dwarf Cannon",
+            "xp": 750,
+            "lvl": 1
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing The Goblin Generals",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Pirate Pete",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "Murder Mystery",
+            "xp": 1406,
+            "lvl": 1
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Skrach Uglogwee",
+            "xp": 1500,
+            "lvl": 1
+         },
+         {
+            "quest": "Observatory Quest",
+            "xp": 2250,
+            "lvl": 1
+         },
+         {
+            "quest": "Nature Spirit",
+            "xp": 3000,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Demon Slayer",
+            "xp": 5000,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Curse Of Arrav",
+            "xp": 9000,
+            "lvl": 1
+         },
+         {
+            "quest": "Gunnar'S Ground",
+            "xp": 300,
+            "lvl": 5
+         },
+         {
+            "quest": "In Aid Of The Myreque",
+            "xp": 2000,
+            "lvl": 12
+         },
+         {
+            "quest": "The Giant Dwarf",
+            "xp": 2500,
+            "lvl": 12
+         },
+         {
+            "quest": "The Great Brain Robbery",
+            "xp": 3000,
+            "lvl": 16
+         },
+         {
+            "quest": "Animal Magnetism",
+            "xp": 1000,
+            "lvl": 19
+         },
+         {
+            "quest": "The Golem",
+            "xp": 1000,
+            "lvl": 20
+         },
+         {
+            "quest": "Tears Of Guthix",
+            "xp": 1000,
+            "lvl": 20
+         },
+         {
+            "quest": "Shades Of Mort'Ton",
+            "xp": 2000,
+            "lvl": 20
+         },
+         {
+            "quest": "Shilo Village",
+            "xp": 3875,
+            "lvl": 20
+         },
+         {
+            "quest": "Elemental Workshop I",
+            "xp": 5000,
+            "lvl": 20
+         },
+         {
+            "quest": "Elemental Workshop Ii",
+            "xp": 7500,
+            "lvl": 20
+         },
+         {
+            "quest": "Making History",
+            "xp": 1000,
+            "lvl": 24
+         },
+         {
+            "quest": "Cold War",
+            "xp": 2000,
+            "lvl": 30
+         },
+         {
+            "quest": "The Slug Menace",
+            "xp": 3500,
+            "lvl": 30
+         },
+         {
+            "quest": "A Fairy Tale Iii - Battle At Ork'S Rift",
+            "xp": 1000,
+            "lvl": 36
+         },
+         {
+            "quest": "Enlightened Journey",
+            "xp": 2000,
+            "lvl": 36
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 40
+         },
+         {
+            "quest": "Elemental Workshop Iv",
+            "xp": 9000,
+            "lvl": 41
+         },
+         {
+            "quest": "Toktz-Ket-Dill",
+            "xp": 10000,
+            "lvl": 43
+         },
+         {
+            "quest": "Cabin Fever",
+            "xp": 7000,
+            "lvl": 45
+         },
+         {
+            "quest": "The Fremennik Isles",
+            "xp": 5000,
+            "lvl": 46
+         },
+         {
+            "quest": "Legacy Of Seergaze",
+            "xp": 4000,
+            "lvl": 47
+         },
+         {
+            "quest": "The Hand In The Sand",
+            "xp": 9000,
+            "lvl": 49
+         },
+         {
+            "quest": "Enakhra'S Lament",
+            "xp": 7000,
+            "lvl": 50
+         },
+         {
+            "quest": "In Pyre Need",
+            "xp": 11556,
+            "lvl": 52
+         },
+         {
+            "quest": "Some Like It Cold",
+            "xp": 40000,
+            "lvl": 56
+         },
+         {
+            "quest": "Kindred Spirits",
+            "xp": 25000,
+            "lvl": 60
+         },
+         {
+            "quest": "The Branches Of Darkmeyer",
+            "xp": 20000,
+            "lvl": 64
+         },
+         {
+            "quest": "Rocking Out",
+            "xp": 25000,
+            "lvl": 66
+         },
+         {
+            "quest": "Love Story",
+            "xp": 40000,
+            "lvl": 67
+         },
+         {
+            "quest": "Do No Evil",
+            "xp": 40000,
+            "lvl": 68
+         },
+         {
+            "quest": "The Void Stares Back",
+            "xp": 20000,
+            "lvl": 70
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "Ritual Of The Mahjarrat",
+            "xp": 40000,
+            "lvl": 76
+         },
+         {
+            "quest": "The Light Within",
+            "xp": 90000,
+            "lvl": 80
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "One Piercing Note (Post-Quest Activity)",
+            "xp": 60000,
+            "lvl": 60
+         },
+         {
+            "quest": "Sheep Shearer",
+            "xp": 150,
+            "lvl": 1
+         },
+         {
+            "quest": "Myths Of The White Lands",
+            "xp": 2000,
+            "lvl": 30
+         },
+         {
+            "quest": "Gunnar'S Ground",
+            "xp": 2000,
+            "lvl": 42
+         },
+         {
+            "quest": "Gunnar'S Ground",
+            "xp": 10000,
+            "lvl": 72
+         },
+         {
+            "quest": "Gunnar'S Ground",
+            "xp": 20000,
+            "lvl": 90
+         }
+      ]
+   },
+   "Defence": {
+      "quests": [
+         {
+            "quest": "The Blood Pact",
+            "xp": 100,
+            "lvl": 1
+         },
+         {
+            "quest": "A Shadow Over Ashdale",
+            "xp": 300,
+            "lvl": 1
+         },
+         {
+            "quest": "A Soul'S Bane",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "In Search Of The Myreque",
+            "xp": 600,
+            "lvl": 1
+         },
+         {
+            "quest": "Nature Spirit",
+            "xp": 2000,
+            "lvl": 1
+         },
+         {
+            "quest": "What Lies Below",
+            "xp": 2000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 1
+         },
+         {
+            "quest": "Defender Of Varrock",
+            "xp": 10000,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Defender Of Varrock",
+            "xp": 10000,
+            "lvl": 1
+         },
+         {
+            "quest": "Olaf'S Quest",
+            "xp": 12000,
+            "lvl": 1
+         },
+         {
+            "quest": "Holy Grail",
+            "xp": 15300,
+            "lvl": 1
+         },
+         {
+            "quest": "Dragon Slayer",
+            "xp": 18650,
+            "lvl": 1
+         },
+         {
+            "quest": "Monkey Madness",
+            "xp": 35000,
+            "lvl": 1
+         },
+         {
+            "quest": "In Aid Of The Myreque",
+            "xp": 2000,
+            "lvl": 12
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 3075,
+            "lvl": 25
+         },
+         {
+            "quest": "Between A Rock...",
+            "xp": 5000,
+            "lvl": 30
+         },
+         {
+            "quest": "Elemental Workshop Iii",
+            "xp": 8500,
+            "lvl": 33
+         },
+         {
+            "quest": "Salt In The Wound",
+            "xp": 45000,
+            "lvl": 60
+         },
+         {
+            "quest": "King'S Ransom",
+            "xp": 33000,
+            "lvl": 65
+         },
+         {
+            "quest": "A Clockwork Syringe",
+            "xp": 19000,
+            "lvl": 76
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Knight Waves Training Grounds",
+            "xp": 20000,
+            "lvl": 65
+         }
+      ]
+   },
+   "Divination": {
+      "quests": [
+         {
+            "quest": "One Of A Kind",
+            "xp": 5000,
+            "lvl": 40
+         },
+         {
+            "quest": "Back To The Freezer",
+            "xp": 25000,
+            "lvl": 50
+         },
+         {
+            "quest": "Hero'S Welcome",
+            "xp": 10000,
+            "lvl": 60
+         },
+         {
+            "quest": "Fate Of The Gods",
+            "xp": 100000,
+            "lvl": 75
+         },
+         {
+            "quest": "The Light Within",
+            "xp": 90000,
+            "lvl": 80
+         },
+         {
+            "quest": "Children Of Mah",
+            "xp": 100000,
+            "lvl": 80
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Mahjarrat Memories",
+            "xp": 375000,
+            "lvl": 60
+         },
+         {
+            "quest": "Fate Of The Gods",
+            "xp": 25000,
+            "lvl": 75
+         },
+         {
+            "quest": "Fate Of The Gods",
+            "xp": 200000,
+            "lvl": 75
+         }
+      ]
+   },
+   "Dungeoneering": {
+      "quests": [
+         {
+            "quest": "Dishonour Among Thieves",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "The Jack Of Spades",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "Salt In The Wound",
+            "xp": 5000,
+            "lvl": 35
+         },
+         {
+            "quest": "A Clockwork Syringe",
+            "xp": 5000,
+            "lvl": 50
+         },
+         {
+            "quest": "One Of A Kind",
+            "xp": 45000,
+            "lvl": 67
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         }
+      ],
+      "post-quests": []
+   },
+   "Farming": {
+      "quests": [
+         {
+            "quest": "Recipe For Disaster: Freeing The Goblin Generals",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "A Fairy Tale I - Growing Pains",
+            "xp": 3500,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Curse Of Arrav",
+            "xp": 4000,
+            "lvl": 1
+         },
+         {
+            "quest": "Perils Of Ice Mountain",
+            "xp": 500,
+            "lvl": 10
+         },
+         {
+            "quest": "Bringing Home The Bacon",
+            "xp": 350,
+            "lvl": 14
+         },
+         {
+            "quest": "Forgettable Tale Of A Drunken Dwarf",
+            "xp": 5000,
+            "lvl": 17
+         },
+         {
+            "quest": "Garden Of Tranquillity",
+            "xp": 5000,
+            "lvl": 25
+         },
+         {
+            "quest": "Spirit Of Summer",
+            "xp": 2000,
+            "lvl": 26
+         },
+         {
+            "quest": "My Arm'S Big Adventure",
+            "xp": 5000,
+            "lvl": 29
+         },
+         {
+            "quest": "Enlightened Journey",
+            "xp": 3000,
+            "lvl": 30
+         },
+         {
+            "quest": "Rum Deal",
+            "xp": 7000,
+            "lvl": 40
+         },
+         {
+            "quest": "Grim Tales",
+            "xp": 4000,
+            "lvl": 45
+         },
+         {
+            "quest": "Back To My Roots",
+            "xp": 24000,
+            "lvl": 53
+         },
+         {
+            "quest": "A Fairy Tale Iii - Battle At Ork'S Rift",
+            "xp": 11000,
+            "lvl": 54
+         },
+         {
+            "quest": "The Branches Of Darkmeyer",
+            "xp": 20000,
+            "lvl": 63
+         }
+      ],
+      "post-quests": []
+   },
+   "Firemaking": {
+      "quests": [
+         {
+            "quest": "Fur 'N Seek",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 1575,
+            "lvl": 1
+         },
+         {
+            "quest": "The Tale Of The Muspah",
+            "xp": 500,
+            "lvl": 6
+         },
+         {
+            "quest": "The Giant Dwarf",
+            "xp": 1500,
+            "lvl": 16
+         },
+         {
+            "quest": "Enlightened Journey",
+            "xp": 4000,
+            "lvl": 20
+         },
+         {
+            "quest": "All Fired Up",
+            "xp": 5500,
+            "lvl": 43
+         },
+         {
+            "quest": "Enakhra'S Lament",
+            "xp": 7000,
+            "lvl": 45
+         },
+         {
+            "quest": "Summer'S End",
+            "xp": 15000,
+            "lvl": 47
+         },
+         {
+            "quest": "As A First Resort",
+            "xp": 15000,
+            "lvl": 51
+         },
+         {
+            "quest": "In Pyre Need",
+            "xp": 14400,
+            "lvl": 55
+         },
+         {
+            "quest": "Forgiveness Of A Chaos Dwarf",
+            "xp": 30000,
+            "lvl": 61
+         },
+         {
+            "quest": "The Void Stares Back",
+            "xp": 20000,
+            "lvl": 71
+         },
+         {
+            "quest": "The Firemaker'S Curse",
+            "xp": 80000,
+            "lvl": 74
+         },
+         {
+            "quest": "River Of Blood",
+            "xp": 50000,
+            "lvl": 76
+         },
+         {
+            "quest": "Pieces Of Hate",
+            "xp": 50000,
+            "lvl": 82
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "The World Wakes",
+            "xp": 50000,
+            "lvl": 74
+         },
+         {
+            "quest": "Fairy Tale Iii - Orks Rift",
+            "xp": 10000,
+            "lvl": 85
+         },
+         {
+            "quest": "Pieces Of Hate",
+            "xp": 50000,
+            "lvl": 85
+         }
+      ]
+   },
+   "Fishing": {
+      "quests": [
+         {
+            "quest": "Beneath Cursed Tides",
+            "xp": 5000,
+            "lvl": 1
+         },
+         {
+            "quest": "Sea Slug",
+            "xp": 7175,
+            "lvl": 1
+         },
+         {
+            "quest": "Tai Bwo Wannai Trio",
+            "xp": 1500,
+            "lvl": 5
+         },
+         {
+            "quest": "Fishing Contest",
+            "xp": 2437,
+            "lvl": 10
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 25
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Pirate Pete",
+            "xp": 1000,
+            "lvl": 31
+         },
+         {
+            "quest": "Land Of The Goblins",
+            "xp": 3000,
+            "lvl": 36
+         },
+         {
+            "quest": "Rum Deal",
+            "xp": 7000,
+            "lvl": 50
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 2725,
+            "lvl": 53
+         },
+         {
+            "quest": "Swan Song",
+            "xp": 10000,
+            "lvl": 62
+         },
+         {
+            "quest": "Some Like It Cold",
+            "xp": 40000,
+            "lvl": 65
+         },
+         {
+            "quest": "Deadliest Catch",
+            "xp": 70000,
+            "lvl": 70
+         },
+         {
+            "quest": "Crocodile Tears",
+            "xp": 35000,
+            "lvl": 72
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Tai Bwo Wannai Trio",
+            "xp": 5000,
+            "lvl": 5
+         }
+      ]
+   },
+   "Fletching": {
+      "quests": [
+         {
+            "quest": "Animal Magnetism",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "Temple Of Ikov",
+            "xp": 8000,
+            "lvl": 1
+         },
+         {
+            "quest": "Big Chompy Bird Hunting",
+            "xp": 262,
+            "lvl": 5
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 25
+         },
+         {
+            "quest": "Zogre Flesh Eaters",
+            "xp": 2000,
+            "lvl": 30
+         },
+         {
+            "quest": "Catapult Construction",
+            "xp": 5000,
+            "lvl": 42
+         },
+         {
+            "quest": "Devious Minds",
+            "xp": 5000,
+            "lvl": 50
+         },
+         {
+            "quest": "In Pyre Need",
+            "xp": 12500,
+            "lvl": 53
+         },
+         {
+            "quest": "Within The Light",
+            "xp": 20000,
+            "lvl": 70
+         },
+         {
+            "quest": "The Branches Of Darkmeyer",
+            "xp": 40000,
+            "lvl": 70
+         },
+         {
+            "quest": "River Of Blood",
+            "xp": 50000,
+            "lvl": 75
+         }
+      ],
+      "post-quests": []
+   },
+   "Herblore": {
+      "quests": [
+         {
+            "quest": "Druidic Ritual",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "Jungle Potion",
+            "xp": 775,
+            "lvl": 3
+         },
+         {
+            "quest": "Recruitment Drive",
+            "xp": 1000,
+            "lvl": 8
+         },
+         {
+            "quest": "Zogre Flesh Eaters",
+            "xp": 2000,
+            "lvl": 8
+         },
+         {
+            "quest": "The Dig Site",
+            "xp": 2000,
+            "lvl": 10
+         },
+         {
+            "quest": "Shades Of Mort'Ton",
+            "xp": 2000,
+            "lvl": 15
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 1325,
+            "lvl": 25
+         },
+         {
+            "quest": "Evil Dave'S Big Day Out",
+            "xp": 20000,
+            "lvl": 30
+         },
+         {
+            "quest": "My Arm'S Big Adventure",
+            "xp": 10000,
+            "lvl": 31
+         },
+         {
+            "quest": "Eadgar'S Ruse",
+            "xp": 11000,
+            "lvl": 31
+         },
+         {
+            "quest": "Land Of The Goblins",
+            "xp": 3000,
+            "lvl": 37
+         },
+         {
+            "quest": "Glorious Memories",
+            "xp": 5000,
+            "lvl": 43
+         },
+         {
+            "quest": "Salt In The Wound",
+            "xp": 15000,
+            "lvl": 47
+         },
+         {
+            "quest": "A Void Dance",
+            "xp": 10000,
+            "lvl": 49
+         },
+         {
+            "quest": "Grim Tales",
+            "xp": 5000,
+            "lvl": 52
+         },
+         {
+            "quest": "A Fairy Tale Ii - Cure A Queen",
+            "xp": 3500,
+            "lvl": 57
+         },
+         {
+            "quest": "Kindred Spirits",
+            "xp": 25000,
+            "lvl": 60
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "River Of Blood",
+            "xp": 75000,
+            "lvl": 80
+         },
+         {
+            "quest": "The Light Within",
+            "xp": 90000,
+            "lvl": 80
+         }
+      ],
+      "post-quests": []
+   },
+   "Hunter": {
+      "quests": [
+         {
+            "quest": "Perils Of Ice Mountain",
+            "xp": 500,
+            "lvl": 5
+         },
+         {
+            "quest": "Eagles' Peak",
+            "xp": 2500,
+            "lvl": 27
+         },
+         {
+            "quest": "Summer'S End",
+            "xp": 5000,
+            "lvl": 35
+         },
+         {
+            "quest": "Hunt For Red Raktuber",
+            "xp": 3000,
+            "lvl": 45
+         },
+         {
+            "quest": "A Void Dance",
+            "xp": 10000,
+            "lvl": 46
+         },
+         {
+            "quest": "As A First Resort",
+            "xp": 15000,
+            "lvl": 48
+         },
+         {
+            "quest": "Defender Of Varrock",
+            "xp": 15000,
+            "lvl": 51
+         },
+         {
+            "quest": "Forgiveness Of A Chaos Dwarf",
+            "xp": 30000,
+            "lvl": 61
+         },
+         {
+            "quest": "Deadliest Catch",
+            "xp": 26000,
+            "lvl": 67
+         },
+         {
+            "quest": "Crocodile Tears",
+            "xp": 35000,
+            "lvl": 73
+         },
+         {
+            "quest": "The Lord Of Vampyrium",
+            "xp": 50000,
+            "lvl": 76
+         }
+      ],
+      "post-quests": []
+   },
+   "Invention": {
+      "quests": [
+         {
+            "quest": "Back To The Freezer",
+            "xp": 10000,
+            "lvl": 1
+         }
+      ],
+      "post-quests": []
+   },
+   "Magic": {
+      "quests": [
+         {
+            "quest": "The Blood Pact",
+            "xp": 100,
+            "lvl": 1
+         },
+         {
+            "quest": "Rune Mysteries",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "Rune Memories",
+            "xp": 300,
+            "lvl": 1
+         },
+         {
+            "quest": "Imp Catcher",
+            "xp": 875,
+            "lvl": 1
+         },
+         {
+            "quest": "A Fairy Tale I - Growing Pains",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "Call Of The Ancestors",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Grand Tree",
+            "xp": 2150,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Curse Of Arrav",
+            "xp": 2500,
+            "lvl": 1
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing The Lumbridge Sage",
+            "xp": 2500,
+            "lvl": 1
+         },
+         {
+            "quest": "Horror From The Deep",
+            "xp": 4662,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Demon Slayer",
+            "xp": 5000,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Defender Of Varrock",
+            "xp": 10000,
+            "lvl": 1
+         },
+         {
+            "quest": "Dream Mentor",
+            "xp": 10000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Tale Of The Muspah",
+            "xp": 1000,
+            "lvl": 10
+         },
+         {
+            "quest": "Enakhra'S Lament",
+            "xp": 7000,
+            "lvl": 13
+         },
+         {
+            "quest": "Watchtower",
+            "xp": 15250,
+            "lvl": 14
+         },
+         {
+            "quest": "Rune Mechanics",
+            "xp": 2300,
+            "lvl": 27
+         },
+         {
+            "quest": "Evil Dave'S Big Day Out",
+            "xp": 50000,
+            "lvl": 30
+         },
+         {
+            "quest": "Spirits Of The Elid",
+            "xp": 1000,
+            "lvl": 33
+         },
+         {
+            "quest": "The Giant Dwarf",
+            "xp": 1500,
+            "lvl": 33
+         },
+         {
+            "quest": "Heart Of Stone",
+            "xp": 1500,
+            "lvl": 35
+         },
+         {
+            "quest": "King'S Ransom",
+            "xp": 5000,
+            "lvl": 45
+         },
+         {
+            "quest": "The Path Of Glouphrie",
+            "xp": 5000,
+            "lvl": 46
+         },
+         {
+            "quest": "The Eyes Of Glouphrie",
+            "xp": 12000,
+            "lvl": 46
+         },
+         {
+            "quest": "Legacy Of Seergaze",
+            "xp": 3000,
+            "lvl": 49
+         },
+         {
+            "quest": "Rune Memories",
+            "xp": 10000,
+            "lvl": 50
+         },
+         {
+            "quest": "Desert Treasure",
+            "xp": 20000,
+            "lvl": 50
+         },
+         {
+            "quest": "Glorious Memories",
+            "xp": 10000,
+            "lvl": 57
+         },
+         {
+            "quest": "A Fairy Tale Iii - Battle At Ork'S Rift",
+            "xp": 11000,
+            "lvl": 59
+         },
+         {
+            "quest": "Lunar Diplomacy",
+            "xp": 5000,
+            "lvl": 65
+         },
+         {
+            "quest": "Swan Song",
+            "xp": 15000,
+            "lvl": 66
+         },
+         {
+            "quest": "The Branches Of Darkmeyer",
+            "xp": 35000,
+            "lvl": 70
+         },
+         {
+            "quest": "Do No Evil",
+            "xp": 50000,
+            "lvl": 72
+         },
+         {
+            "quest": "The Elder Kiln",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "Love Story",
+            "xp": 50000,
+            "lvl": 77
+         },
+         {
+            "quest": "Fate Of The Gods",
+            "xp": 125000,
+            "lvl": 79
+         },
+         {
+            "quest": "The Void Stares Back",
+            "xp": 20000,
+            "lvl": 80
+         },
+         {
+            "quest": "One Of A Kind",
+            "xp": 90000,
+            "lvl": 81
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Returning Clarence",
+            "xp": 10000,
+            "lvl": 1
+         },
+         {
+            "quest": "Witch's Potion",
+            "xp": 325,
+            "lvl": 1
+         },
+         {
+            "quest": "Knight Waves Training Ground",
+            "xp": 20000,
+            "lvl": 1
+         },
+         {
+            "quest": "Swept Away",
+            "xp": 1997,
+            "lvl": 33
+         },
+         {
+            "quest": "Swept Away",
+            "xp": 7139,
+            "lvl": 53
+         },
+         {
+            "quest": "Swept Away",
+            "xp": 10338,
+            "lvl": 73
+         },
+         {
+            "quest": "Swept Away",
+            "xp": 14979,
+            "lvl": 93
+         }
+      ]
+   },
+   "Mining": {
+      "quests": [
+         {
+            "quest": "What'S Mine Is Yours",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "Plague City",
+            "xp": 2425,
+            "lvl": 1
+         },
+         {
+            "quest": "The Giant Dwarf",
+            "xp": 2500,
+            "lvl": 1
+         },
+         {
+            "quest": "Enakhra'S Lament",
+            "xp": 7000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Dig Site",
+            "xp": 15300,
+            "lvl": 1
+         },
+         {
+            "quest": "The Tale Of The Muspah",
+            "xp": 800,
+            "lvl": 8
+         },
+         {
+            "quest": "Another Slice Of H.A.M.",
+            "xp": 3000,
+            "lvl": 17
+         },
+         {
+            "quest": "The Lost Tribe",
+            "xp": 3000,
+            "lvl": 17
+         },
+         {
+            "quest": "Legacy Of Seergaze",
+            "xp": 2000,
+            "lvl": 35
+         },
+         {
+            "quest": "Between A Rock...",
+            "xp": 5000,
+            "lvl": 40
+         },
+         {
+            "quest": "Toktz-Ket-Dill",
+            "xp": 15000,
+            "lvl": 41
+         },
+         {
+            "quest": "Summer'S End",
+            "xp": 5000,
+            "lvl": 45
+         },
+         {
+            "quest": "Kennith'S Concerns",
+            "xp": 12000,
+            "lvl": 46
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 2575,
+            "lvl": 50
+         },
+         {
+            "quest": "Defender Of Varrock",
+            "xp": 10000,
+            "lvl": 59
+         },
+         {
+            "quest": "The Curse Of Arrav",
+            "xp": 30000,
+            "lvl": 64
+         },
+         {
+            "quest": "Hero'S Welcome",
+            "xp": 10000,
+            "lvl": 67
+         },
+         {
+            "quest": "King Of The Dwarves",
+            "xp": 45000,
+            "lvl": 68
+         },
+         {
+            "quest": "River Of Blood",
+            "xp": 50000,
+            "lvl": 72
+         },
+         {
+            "quest": "The Brink Of Extinction",
+            "xp": 100000,
+            "lvl": 72
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "Nomad'S Elegy",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "Ritual Of The Mahjarrat",
+            "xp": 40000,
+            "lvl": 76
+         },
+         {
+            "quest": "Birthright Of The Dwarves",
+            "xp": 100000,
+            "lvl": 80
+         }
+      ],
+      "post-quests": []
+   },
+   "Prayer": {
+      "quests": [
+         {
+            "quest": "The Restless Ghost",
+            "xp": 1125,
+            "lvl": 1
+         },
+         {
+            "quest": "One Piercing Note",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "The Death Of Chivalry",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "Rag And Bone Man",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "Missing, Presumed Death",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "Making History",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "Priest In Peril",
+            "xp": 1406,
+            "lvl": 1
+         },
+         {
+            "quest": "Fur 'N Seek",
+            "xp": 1500,
+            "lvl": 1
+         },
+         {
+            "quest": "Mountain Daughter",
+            "xp": 2000,
+            "lvl": 1
+         },
+         {
+            "quest": "Ghosts Ahoy",
+            "xp": 2400,
+            "lvl": 1
+         },
+         {
+            "quest": "Dealing With Scabaras",
+            "xp": 7000,
+            "lvl": 1
+         },
+         {
+            "quest": "Spirits Of The Elid",
+            "xp": 8000,
+            "lvl": 1
+         },
+         {
+            "quest": "Swan Song",
+            "xp": 10000,
+            "lvl": 1
+         },
+         {
+            "quest": "Holy Grail",
+            "xp": 11000,
+            "lvl": 1
+         },
+         {
+            "quest": "Recruitment Drive",
+            "xp": 1000,
+            "lvl": 8
+         },
+         {
+            "quest": "Another Slice Of H.A.M.",
+            "xp": 3000,
+            "lvl": 25
+         },
+         {
+            "quest": "Land Of The Goblins",
+            "xp": 2000,
+            "lvl": 30
+         },
+         {
+            "quest": "Missing My Mummy",
+            "xp": 6500,
+            "lvl": 35
+         },
+         {
+            "quest": "Rum Deal",
+            "xp": 7000,
+            "lvl": 47
+         },
+         {
+            "quest": "The Great Brain Robbery",
+            "xp": 6000,
+            "lvl": 50
+         },
+         {
+            "quest": "The Temple At Senntisten",
+            "xp": 10000,
+            "lvl": 50
+         },
+         {
+            "quest": "Summer'S End",
+            "xp": 10000,
+            "lvl": 55
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "The Light Within",
+            "xp": 90000,
+            "lvl": 80
+         },
+         {
+            "quest": "The World Wakes",
+            "xp": 250000,
+            "lvl": 80
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Rag And Bone Man Wish List",
+            "xp": 5000,
+            "lvl": 1
+         },
+         {
+            "quest": "In Memory Of The Myreque",
+            "xp": 10000,
+            "lvl": 1
+         },
+         {
+            "quest": "Spirit Of Summer (See Spirit Realm)",
+            "xp": 5000,
+            "lvl": 35
+         },
+         {
+            "quest": "Hopespear'S Will",
+            "xp": 13750,
+            "lvl": 40
+         },
+         {
+            "quest": "Rune Memories (Optional Reward)",
+            "xp": 10000,
+            "lvl": 50
+         }
+      ]
+   },
+   "Ranged": {
+      "quests": [
+         {
+            "quest": "The Blood Pact",
+            "xp": 100,
+            "lvl": 1
+         },
+         {
+            "quest": "Death To The Dorgeshuun",
+            "xp": 2000,
+            "lvl": 1
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 2075,
+            "lvl": 1
+         },
+         {
+            "quest": "Horror From The Deep",
+            "xp": 4662,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Curse Of Arrav",
+            "xp": 9000,
+            "lvl": 1
+         },
+         {
+            "quest": "Big Chompy Bird Hunting",
+            "xp": 735,
+            "lvl": 30
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Skrach Uglogwee",
+            "xp": 1500,
+            "lvl": 30
+         },
+         {
+            "quest": "Zogre Flesh Eaters",
+            "xp": 2000,
+            "lvl": 30
+         },
+         {
+            "quest": "Temple Of Ikov",
+            "xp": 10500,
+            "lvl": 40
+         },
+         {
+            "quest": "The Curse Of Arrav",
+            "xp": 9000,
+            "lvl": 64
+         },
+         {
+            "quest": "Within The Light",
+            "xp": 20000,
+            "lvl": 75
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Knight Waves Training Ground",
+            "xp": 20000,
+            "lvl": 1
+         }
+      ]
+   },
+   "Runecrafting": {
+      "quests": [
+         {
+            "quest": "Rune Mysteries",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "Rune Memories",
+            "xp": 300,
+            "lvl": 1
+         },
+         {
+            "quest": "The Eyes Of Glouphrie",
+            "xp": 6000,
+            "lvl": 1
+         },
+         {
+            "quest": "Lunar Diplomacy",
+            "xp": 5000,
+            "lvl": 14
+         },
+         {
+            "quest": "Rune Mechanics",
+            "xp": 1850,
+            "lvl": 20
+         },
+         {
+            "quest": "Heart Of Stone",
+            "xp": 1500,
+            "lvl": 25
+         },
+         {
+            "quest": "The Slug Menace",
+            "xp": 3500,
+            "lvl": 30
+         },
+         {
+            "quest": "What Lies Below",
+            "xp": 8000,
+            "lvl": 35
+         },
+         {
+            "quest": "Elemental Workshop Iv",
+            "xp": 7500,
+            "lvl": 39
+         },
+         {
+            "quest": "Back To The Freezer",
+            "xp": 25000,
+            "lvl": 45
+         },
+         {
+            "quest": "Devious Minds",
+            "xp": 5000,
+            "lvl": 50
+         },
+         {
+            "quest": "The Prisoner Of Glouphrie",
+            "xp": 45000,
+            "lvl": 61
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Abyss Miniquest",
+            "xp": 1000,
+            "lvl": 1
+         }
+      ]
+   },
+   "Slayer": {
+      "quests": [
+         {
+            "quest": "Wanted!",
+            "xp": 5000,
+            "lvl": 1
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing The Mountain Dwarf",
+            "xp": 1000,
+            "lvl": 10
+         },
+         {
+            "quest": "Animal Magnetism",
+            "xp": 1000,
+            "lvl": 18
+         },
+         {
+            "quest": "Fur 'N Seek",
+            "xp": 2500,
+            "lvl": 25
+         },
+         {
+            "quest": "Smoking Kills",
+            "xp": 5000,
+            "lvl": 35
+         },
+         {
+            "quest": "The Curse Of Arrav",
+            "xp": 2500,
+            "lvl": 37
+         },
+         {
+            "quest": "Back To The Freezer",
+            "xp": 15000,
+            "lvl": 37
+         },
+         {
+            "quest": "Royal Trouble",
+            "xp": 5000,
+            "lvl": 40
+         },
+         {
+            "quest": "The Path Of Glouphrie",
+            "xp": 20000,
+            "lvl": 56
+         },
+         {
+            "quest": "Back To My Roots",
+            "xp": 23000,
+            "lvl": 59
+         },
+         {
+            "quest": "A Clockwork Syringe",
+            "xp": 11000,
+            "lvl": 61
+         },
+         {
+            "quest": "Hero'S Welcome",
+            "xp": 10000,
+            "lvl": 62
+         },
+         {
+            "quest": "The Branches Of Darkmeyer",
+            "xp": 25000,
+            "lvl": 67
+         },
+         {
+            "quest": "The World Wakes",
+            "xp": 110000,
+            "lvl": 70
+         },
+         {
+            "quest": "Fate Of The Gods",
+            "xp": 100000,
+            "lvl": 76
+         },
+         {
+            "quest": "The Lord Of Vampyrium",
+            "xp": 50000,
+            "lvl": 78
+         },
+         {
+            "quest": "The Light Within",
+            "xp": 90000,
+            "lvl": 80
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "The General'S Shadow",
+            "xp": 2000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Lair Of Tarn Razorlor",
+            "xp": 5000,
+            "lvl": 40
+         }
+      ]
+   },
+   "Smithing": {
+      "quests": [
+         {
+            "quest": "Recipe For Disaster: Freeing Pirate Pete",
+            "xp": 1000,
+            "lvl": 1
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 2257,
+            "lvl": 1
+         },
+         {
+            "quest": "The Giant Dwarf",
+            "xp": 2500,
+            "lvl": 1
+         },
+         {
+            "quest": "The Knight'S Sword",
+            "xp": 12725,
+            "lvl": 1
+         },
+         {
+            "quest": "What'S Mine Is Yours",
+            "xp": 400,
+            "lvl": 5
+         },
+         {
+            "quest": "Elemental Workshop I",
+            "xp": 5000,
+            "lvl": 20
+         },
+         {
+            "quest": "Elemental Workshop Ii",
+            "xp": 7500,
+            "lvl": 30
+         },
+         {
+            "quest": "Elemental Workshop Iii",
+            "xp": 2000,
+            "lvl": 33
+         },
+         {
+            "quest": "Between A Rock...",
+            "xp": 5000,
+            "lvl": 50
+         },
+         {
+            "quest": "Cabin Fever",
+            "xp": 7000,
+            "lvl": 50
+         },
+         {
+            "quest": "Defender Of Varrock",
+            "xp": 10000,
+            "lvl": 54
+         },
+         {
+            "quest": "Kindred Spirits",
+            "xp": 25000,
+            "lvl": 60
+         },
+         {
+            "quest": "Devious Minds",
+            "xp": 6500,
+            "lvl": 65
+         },
+         {
+            "quest": "Hero'S Welcome",
+            "xp": 10000,
+            "lvl": 67
+         },
+         {
+            "quest": "Love Story",
+            "xp": 40000,
+            "lvl": 68
+         },
+         {
+            "quest": "Rocking Out",
+            "xp": 25000,
+            "lvl": 69
+         },
+         {
+            "quest": "The Void Stares Back",
+            "xp": 20000,
+            "lvl": 70
+         },
+         {
+            "quest": "King Of The Dwarves",
+            "xp": 50000,
+            "lvl": 70
+         },
+         {
+            "quest": "A Clockwork Syringe",
+            "xp": 18000,
+            "lvl": 74
+         },
+         {
+            "quest": "Birthright Of The Dwarves",
+            "xp": 100000,
+            "lvl": 82
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Summer'S End (See Spirit Realm)",
+            "xp": 7500,
+            "lvl": 50
+         }
+      ]
+   },
+   "Strength": {
+      "quests": [
+         {
+            "quest": "The Blood Pact",
+            "xp": 100,
+            "lvl": 1
+         },
+         {
+            "quest": "A Shadow Over Ashdale",
+            "xp": 300,
+            "lvl": 1
+         },
+         {
+            "quest": "In Search Of The Myreque",
+            "xp": 600,
+            "lvl": 1
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 1
+         },
+         {
+            "quest": "Land Of The Goblins",
+            "xp": 3000,
+            "lvl": 1
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 3075,
+            "lvl": 1
+         },
+         {
+            "quest": "Troll Romance",
+            "xp": 4000,
+            "lvl": 1
+         },
+         {
+            "quest": "Horror From The Deep",
+            "xp": 4662,
+            "lvl": 1
+         },
+         {
+            "quest": "Scorpion Catcher",
+            "xp": 6625,
+            "lvl": 1
+         },
+         {
+            "quest": "Roving Elves",
+            "xp": 10000,
+            "lvl": 1
+         },
+         {
+            "quest": "Waterfall Quest",
+            "xp": 13750,
+            "lvl": 1
+         },
+         {
+            "quest": "Dragon Slayer",
+            "xp": 18650,
+            "lvl": 1
+         },
+         {
+            "quest": "Haunted Mine",
+            "xp": 22000,
+            "lvl": 1
+         },
+         {
+            "quest": "In Aid Of The Myreque",
+            "xp": 2000,
+            "lvl": 12
+         },
+         {
+            "quest": "Toktz-Ket-Dill",
+            "xp": 5000,
+            "lvl": 45
+         },
+         {
+            "quest": "The Chosen Commander",
+            "xp": 20000,
+            "lvl": 46
+         },
+         {
+            "quest": "The Path Of Glouphrie",
+            "xp": 30000,
+            "lvl": 60
+         },
+         {
+            "quest": "The Curse Of Arrav",
+            "xp": 9000,
+            "lvl": 64
+         },
+         {
+            "quest": "Forgiveness Of A Chaos Dwarf",
+            "xp": 30000,
+            "lvl": 69
+         },
+         {
+            "quest": "King Of The Dwarves",
+            "xp": 55000,
+            "lvl": 77
+         },
+         {
+            "quest": "The Mighty Fall",
+            "xp": 80000,
+            "lvl": 79
+         },
+         {
+            "quest": "Birthright Of The Dwarves",
+            "xp": 200000,
+            "lvl": 85
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Knight Waves Training Grounds",
+            "xp": 20000,
+            "lvl": 1
+         },
+         {
+            "quest": "Tai Bwo Wannai Trio",
+            "xp": 2500,
+            "lvl": 1
+         }
+      ]
+   },
+   "Summoning": {
+      "quests": [
+         {
+            "quest": "Wolf Whistle",
+            "xp": 276,
+            "lvl": 1
+         },
+         {
+            "quest": "Bringing Home The Bacon",
+            "xp": 350,
+            "lvl": 14
+         },
+         {
+            "quest": "Spirit Of Summer",
+            "xp": 1000,
+            "lvl": 19
+         },
+         {
+            "quest": "Summer'S End",
+            "xp": 1500,
+            "lvl": 23
+         },
+         {
+            "quest": "A Fairy Tale Iii - Battle At Ork'S Rift",
+            "xp": 1000,
+            "lvl": 37
+         },
+         {
+            "quest": "The Curse Of Arrav",
+            "xp": 4000,
+            "lvl": 41
+         },
+         {
+            "quest": "Salt In The Wound",
+            "xp": 12500,
+            "lvl": 45
+         },
+         {
+            "quest": "A Void Dance",
+            "xp": 8000,
+            "lvl": 48
+         },
+         {
+            "quest": "The Void Stares Back",
+            "xp": 20000,
+            "lvl": 55
+         },
+         {
+            "quest": "A Clockwork Syringe",
+            "xp": 15000,
+            "lvl": 65
+         },
+         {
+            "quest": "Fate Of The Gods",
+            "xp": 50000,
+            "lvl": 67
+         },
+         {
+            "quest": "One Of A Kind",
+            "xp": 80000,
+            "lvl": 74
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         }
+      ],
+      "post-quests": []
+   },
+   "Thieving": {
+      "quests": [
+         {
+            "quest": "Dimension Of Disaster: Shield Of Arrav",
+            "xp": 100,
+            "lvl": 1
+         },
+         {
+            "quest": "Let Them Eat Pie",
+            "xp": 150,
+            "lvl": 1
+         },
+         {
+            "quest": "Stolen Hearts",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "Diamond In The Rough",
+            "xp": 250,
+            "lvl": 1
+         },
+         {
+            "quest": "Tower Of Life",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "The Jack Of Spades",
+            "xp": 500,
+            "lvl": 1
+         },
+         {
+            "quest": "Biohazard",
+            "xp": 1250,
+            "lvl": 1
+         },
+         {
+            "quest": "Hazeel Cult",
+            "xp": 1500,
+            "lvl": 1
+         },
+         {
+            "quest": "Fight Arena",
+            "xp": 2175,
+            "lvl": 1
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 1
+         },
+         {
+            "quest": "Icthlarin'S Little Helper",
+            "xp": 4500,
+            "lvl": 1
+         },
+         {
+            "quest": "Rat Catchers",
+            "xp": 4500,
+            "lvl": 1
+         },
+         {
+            "quest": "Contact!",
+            "xp": 7000,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Defender Of Varrock",
+            "xp": 10000,
+            "lvl": 1
+         },
+         {
+            "quest": "Dimension Of Disaster: Curse Of Arrav",
+            "xp": 14000,
+            "lvl": 1
+         },
+         {
+            "quest": "Perils Of Ice Mountain",
+            "xp": 500,
+            "lvl": 5
+         },
+         {
+            "quest": "Buyers And Cellars",
+            "xp": 525,
+            "lvl": 5
+         },
+         {
+            "quest": "The Giant Dwarf",
+            "xp": 1500,
+            "lvl": 14
+         },
+         {
+            "quest": "The Hand In The Sand",
+            "xp": 1000,
+            "lvl": 17
+         },
+         {
+            "quest": "Tribal Totem",
+            "xp": 1775,
+            "lvl": 21
+         },
+         {
+            "quest": "The Darkness Of Hallowvale",
+            "xp": 6000,
+            "lvl": 22
+         },
+         {
+            "quest": "Death To The Dorgeshuun",
+            "xp": 2000,
+            "lvl": 23
+         },
+         {
+            "quest": "Creature Of Fenkenstrain",
+            "xp": 1000,
+            "lvl": 25
+         },
+         {
+            "quest": "The Golem",
+            "xp": 1000,
+            "lvl": 25
+         },
+         {
+            "quest": "Dishonour Among Thieves",
+            "xp": 1500,
+            "lvl": 30
+         },
+         {
+            "quest": "The Slug Menace",
+            "xp": 3500,
+            "lvl": 30
+         },
+         {
+            "quest": "The Feud",
+            "xp": 15000,
+            "lvl": 30
+         },
+         {
+            "quest": "Carnillean Rising",
+            "xp": 2500,
+            "lvl": 33
+         },
+         {
+            "quest": "Land Of The Goblins",
+            "xp": 3000,
+            "lvl": 36
+         },
+         {
+            "quest": "Spirits Of The Elid",
+            "xp": 1000,
+            "lvl": 37
+         },
+         {
+            "quest": "Hunt For Red Raktuber",
+            "xp": 2000,
+            "lvl": 38
+         },
+         {
+            "quest": "A Fairy Tale Ii - Cure A Queen",
+            "xp": 2500,
+            "lvl": 40
+         },
+         {
+            "quest": "The Chosen Commander",
+            "xp": 20000,
+            "lvl": 46
+         },
+         {
+            "quest": "Some Like It Cold",
+            "xp": 10000,
+            "lvl": 50
+         },
+         {
+            "quest": "Mourning'S End Part I",
+            "xp": 25000,
+            "lvl": 50
+         },
+         {
+            "quest": "A Fairy Tale Iii - Battle At Ork'S Rift",
+            "xp": 11000,
+            "lvl": 51
+         },
+         {
+            "quest": "The Path Of Glouphrie",
+            "xp": 5000,
+            "lvl": 56
+         },
+         {
+            "quest": "Grim Tales",
+            "xp": 6000,
+            "lvl": 58
+         },
+         {
+            "quest": "Dealing With Scabaras",
+            "xp": 7000,
+            "lvl": 60
+         },
+         {
+            "quest": "Rocking Out",
+            "xp": 25000,
+            "lvl": 63
+         },
+         {
+            "quest": "The Prisoner Of Glouphrie",
+            "xp": 60000,
+            "lvl": 64
+         },
+         {
+            "quest": "The Curse Of Arrav",
+            "xp": 14000,
+            "lvl": 66
+         },
+         {
+            "quest": "Deadliest Catch",
+            "xp": 8000,
+            "lvl": 70
+         },
+         {
+            "quest": "Do No Evil",
+            "xp": 50000,
+            "lvl": 70
+         },
+         {
+            "quest": "A Clockwork Syringe",
+            "xp": 18000,
+            "lvl": 74
+         },
+         {
+            "quest": "Missing, Presumed Death",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "Pieces Of Hate",
+            "xp": 50000,
+            "lvl": 85
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Pieces Of Hate",
+            "xp": 50000,
+            "lvl": 85
+         }
+      ]
+   },
+   "Woodcutting": {
+      "quests": [
+         {
+            "quest": "Enlightened Journey",
+            "xp": 1500,
+            "lvl": 1
+         },
+         {
+            "quest": "Recipe For Disaster: Freeing Skrach Uglogwee",
+            "xp": 1500,
+            "lvl": 1
+         },
+         {
+            "quest": "Heroes' Quest",
+            "xp": 1575,
+            "lvl": 1
+         },
+         {
+            "quest": "Monk'S Friend",
+            "xp": 2000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Eyes Of Glouphrie",
+            "xp": 2500,
+            "lvl": 1
+         },
+         {
+            "quest": "Icthlarin'S Little Helper",
+            "xp": 4000,
+            "lvl": 1
+         },
+         {
+            "quest": "The Tale Of The Muspah",
+            "xp": 800,
+            "lvl": 10
+         },
+         {
+            "quest": "Animal Magnetism",
+            "xp": 2500,
+            "lvl": 35
+         },
+         {
+            "quest": "Summer'S End",
+            "xp": 5000,
+            "lvl": 37
+         },
+         {
+            "quest": "The Fremennik Trials",
+            "xp": 2812,
+            "lvl": 40
+         },
+         {
+            "quest": "Crocodile Tears",
+            "xp": 15000,
+            "lvl": 47
+         },
+         {
+            "quest": "The Fremennik Isles",
+            "xp": 10000,
+            "lvl": 56
+         },
+         {
+            "quest": "As A First Resort",
+            "xp": 15000,
+            "lvl": 58
+         },
+         {
+            "quest": "Grim Tales",
+            "xp": 14000,
+            "lvl": 71
+         },
+         {
+            "quest": "Back To My Roots",
+            "xp": 40000,
+            "lvl": 72
+         },
+         {
+            "quest": "Within The Light",
+            "xp": 20000,
+            "lvl": 75
+         },
+         {
+            "quest": "Plague'S End",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "Nomad'S Elegy",
+            "xp": 50000,
+            "lvl": 75
+         },
+         {
+            "quest": "The Branches Of Darkmeyer",
+            "xp": 50000,
+            "lvl": 76
+         },
+         {
+            "quest": "The Light Within",
+            "xp": 90000,
+            "lvl": 80
+         }
+      ],
+      "post-quests": [
+         {
+            "quest": "Myths Of The White Lands",
+            "xp": 20000,
+            "lvl": 80
+         }
+      ]
+   }
+}

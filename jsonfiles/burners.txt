@@ -1,0 +1,17 @@
+Toadflax
+Willow
+Impious
+
+Reduces the chance of failing an agility obstacle by 12.5% per potency (50% at potency 4).
+--------------
+Spirit Weed	Willow	Impious	Reduces the special attack energy of Summoning familiars, higher potency reduces it more. Stacks with spirit cape.
+--------------------------
+Wergali	Maple	Accursed	Chance per potency to automatically string bows or attach feathers to arrow shafts while Fletching. Gives XP but does not require the additional bow string/feathers.
+-----------------------------------------
+Cadantine	Yew	Infernal	Reduces the chance to deplete resources (rate increases with potency). Works while on Arc. Does not work with Mining or Farming.
+-----------------------------------------------
+Lantadyme	Yew	Infernal	Increases the duration of potions when drunk, excludes degrading stat boosting potions (higher the potency the longer the increase). Only works with potions with a set timer (overloads, prayer renewals etc).
+---------------------------------------------------
+Dwarf Weed	Yew	Infernal	Increasing chance to bank items that are produced or dropped by monsters. Essentially a free porter chance.
+Torstol	Magic	Infernal	Increase the amount of XP earned (higher potency gives more XP). Flat XP increase.
+

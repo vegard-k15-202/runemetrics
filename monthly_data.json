@@ -1,0 +1,1790 @@
+[
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 10,
+            "totalXp": 14572136,
+            "averageXpGain": 1214335,
+            "totalGain": 14572030,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992933973,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671333973,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349733973,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768933973,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443733973,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035733973,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714133973,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306133973,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 530738,
+                  "timestamp": 1567247595643,
+                  "rank": 23008
+               },
+               {
+                  "xpGain": 2998423,
+                  "timestamp": 1569701132383,
+                  "rank": 3681
+               },
+               {
+                  "xpGain": 8913460,
+                  "timestamp": 1572542198151,
+                  "rank": 814
+               },
+               {
+                  "xpGain": 2129409,
+                  "timestamp": 1572834294833,
+                  "rank": 2719
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 25,
+            "totalXp": 13244196,
+            "averageXpGain": 1103674,
+            "totalGain": 13244099,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992934633,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671334633,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349734633,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768934633,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443734633,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035734633,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714134633,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306134633,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 4083187,
+                  "timestamp": 1567123425251,
+                  "rank": 2231
+               },
+               {
+                  "xpGain": 2993547,
+                  "timestamp": 1569781663189,
+                  "rank": 3071
+               },
+               {
+                  "xpGain": 6113253,
+                  "timestamp": 1572218447175,
+                  "rank": 1074
+               },
+               {
+                  "xpGain": 54112,
+                  "timestamp": 1573594841521,
+                  "rank": 38203
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 12,
+            "totalXp": 12106720,
+            "averageXpGain": 1008889,
+            "totalGain": 12106673,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992935413,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671335413,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349735413,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768935413,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443735413,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035735413,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714135413,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306135413,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 5627577,
+                  "timestamp": 1567195633969,
+                  "rank": 686
+               },
+               {
+                  "xpGain": 2507261,
+                  "timestamp": 1569679450355,
+                  "rank": 2223
+               },
+               {
+                  "xpGain": 258484,
+                  "timestamp": 1572081348685,
+                  "rank": 28294
+               },
+               {
+                  "xpGain": 3713351,
+                  "timestamp": 1573912859894,
+                  "rank": 423
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 14,
+            "totalXp": 11726321,
+            "averageXpGain": 977167,
+            "totalGain": 11726008,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992936090,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671336090,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349736090,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768936090,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443736090,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035736090,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714136090,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306136090,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 5175098,
+                  "timestamp": 1567195633972,
+                  "rank": 4347
+               },
+               {
+                  "xpGain": 3332189,
+                  "timestamp": 1569837532119,
+                  "rank": 6407
+               },
+               {
+                  "xpGain": 523266,
+                  "timestamp": 1572081348687,
+                  "rank": 31157
+               },
+               {
+                  "xpGain": 2695455,
+                  "timestamp": 1573912859896,
+                  "rank": 4387
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 16,
+            "totalXp": 3475384,
+            "averageXpGain": 289594,
+            "totalGain": 3475130,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992936803,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671336803,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349736803,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768936803,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443736803,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035736803,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714136803,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306136803,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 970048,
+                  "timestamp": 1567184576815,
+                  "rank": 23162
+               },
+               {
+                  "xpGain": 2488224,
+                  "timestamp": 1569844675116,
+                  "rank": 3749
+               },
+               {
+                  "xpGain": 16858,
+                  "timestamp": 1571708522367,
+                  "rank": 78834
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936936803,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 24,
+            "totalXp": 1923198,
+            "averageXpGain": 160263,
+            "totalGain": 1923164,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992937533,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671337533,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349737533,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768937533,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443737533,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035737533,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714137533,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306137533,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 1260209,
+                  "timestamp": 1567184576826,
+                  "rank": 44647
+               },
+               {
+                  "xpGain": 133303,
+                  "timestamp": 1569440217682,
+                  "rank": 50156
+               },
+               {
+                  "xpGain": 462905,
+                  "timestamp": 1572441780672,
+                  "rank": 28016
+               },
+               {
+                  "xpGain": 66747,
+                  "timestamp": 1573425620313,
+                  "rank": 40990
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 8,
+            "totalXp": 1707668,
+            "averageXpGain": 142304,
+            "totalGain": 1707658,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992938253,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671338253,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349738253,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768938253,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443738253,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035738253,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714138253,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306138253,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 232429,
+                  "timestamp": 1567241368896,
+                  "rank": 32699
+               },
+               {
+                  "xpGain": 1042113,
+                  "timestamp": 1569861114082,
+                  "rank": 8715
+               },
+               {
+                  "xpGain": 433116,
+                  "timestamp": 1572081348680,
+                  "rank": 18521
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936938253,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 2,
+            "totalXp": 1639854,
+            "averageXpGain": 136624,
+            "totalGain": 1639491,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992938978,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671338978,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349738978,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768938978,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443738978,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035738978,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714138978,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306138978,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 274282,
+                  "timestamp": 1567123425221,
+                  "rank": 37385
+               },
+               {
+                  "xpGain": 457993,
+                  "timestamp": 1569837532103,
+                  "rank": 24473
+               },
+               {
+                  "xpGain": 907216,
+                  "timestamp": 1572081348677,
+                  "rank": 15677
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936938978,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 11,
+            "totalXp": 1542750,
+            "averageXpGain": 128561,
+            "totalGain": 1542733,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992939702,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671339702,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349739702,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768939702,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443739702,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035739702,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714139702,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306139702,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 222715,
+                  "timestamp": 1567241368900,
+                  "rank": 27109
+               },
+               {
+                  "xpGain": 992514,
+                  "timestamp": 1569802161390,
+                  "rank": 7731
+               },
+               {
+                  "xpGain": 327504,
+                  "timestamp": 1571161768159,
+                  "rank": 19095
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936939702,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 3,
+            "totalXp": 1097623,
+            "averageXpGain": 91337,
+            "totalGain": 1096053,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992940495,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671340495,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349740495,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768940495,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443740495,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035740495,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714140495,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306140495,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 299035,
+                  "timestamp": 1567184576799,
+                  "rank": 68269
+               },
+               {
+                  "xpGain": 431029,
+                  "timestamp": 1569824775586,
+                  "rank": 49721
+               },
+               {
+                  "xpGain": 365989,
+                  "timestamp": 1572081348678,
+                  "rank": 50082
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936940495,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 0,
+            "totalXp": 740600,
+            "averageXpGain": 61689,
+            "totalGain": 740271,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992941626,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671341626,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349741626,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768941626,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443741626,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035741626,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714141626,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306141626,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 337685,
+                  "timestamp": 1567184576794,
+                  "rank": 36358
+               },
+               {
+                  "xpGain": 399993,
+                  "timestamp": 1568271571977,
+                  "rank": 28015
+               },
+               {
+                  "xpGain": 2593,
+                  "timestamp": 1571203640936,
+                  "rank": 99217
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936941626,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 1,
+            "totalXp": 738072,
+            "averageXpGain": 61476,
+            "totalGain": 737712,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992942907,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671342907,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349742907,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768942907,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443742907,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035742907,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714142907,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306142907,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 277611,
+                  "timestamp": 1567123425220,
+                  "rank": 47446
+               },
+               {
+                  "xpGain": 460101,
+                  "timestamp": 1569363992263,
+                  "rank": 32541
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1571254942907,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936942907,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 18,
+            "totalXp": 717394,
+            "averageXpGain": 59778,
+            "totalGain": 717344,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992944203,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671344203,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349744203,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768944203,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443744203,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035744203,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714144203,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306144203,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 1893,
+                  "timestamp": 1566949441550,
+                  "rank": 132618
+               },
+               {
+                  "xpGain": 387985,
+                  "timestamp": 1569824775607,
+                  "rank": 48021
+               },
+               {
+                  "xpGain": 327466,
+                  "timestamp": 1570522599702,
+                  "rank": 47696
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936944203,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 23,
+            "totalXp": 416939,
+            "averageXpGain": 34742,
+            "totalGain": 416913,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992945285,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671345285,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349745285,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768945285,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443745285,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035745285,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714145285,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306145285,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 66726,
+                  "timestamp": 1567123425247,
+                  "rank": 44324
+               },
+               {
+                  "xpGain": 24923,
+                  "timestamp": 1569546983217,
+                  "rank": 59195
+               },
+               {
+                  "xpGain": 289711,
+                  "timestamp": 1572386100971,
+                  "rank": 14089
+               },
+               {
+                  "xpGain": 35553,
+                  "timestamp": 1572910300304,
+                  "rank": 31054
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 21,
+            "totalXp": 164183,
+            "averageXpGain": 8060,
+            "totalGain": 96727,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992946604,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671346604,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349746604,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768946604,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443746604,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035746604,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714146604,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306146604,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 46113,
+                  "timestamp": 1567123425244,
+                  "rank": 58867
+               },
+               {
+                  "xpGain": 50614,
+                  "timestamp": 1569771954350,
+                  "rank": 50112
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1571254946604,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936946604,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 5,
+            "totalXp": 154087,
+            "averageXpGain": 12838,
+            "totalGain": 154058,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992947924,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671347924,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349747924,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768947924,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443747924,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035747924,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714147924,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306147924,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 63824,
+                  "timestamp": 1567184576802,
+                  "rank": 68702
+               },
+               {
+                  "xpGain": 52944,
+                  "timestamp": 1569824775588,
+                  "rank": 63586
+               },
+               {
+                  "xpGain": 37290,
+                  "timestamp": 1572081348679,
+                  "rank": 68745
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936947924,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 19,
+            "totalXp": 45453,
+            "averageXpGain": 3787,
+            "totalGain": 45444,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992949081,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671349081,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349749081,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768949081,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443749081,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035749081,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714149081,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306149081,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 10336,
+                  "timestamp": 1567184576819,
+                  "rank": 108022
+               },
+               {
+                  "xpGain": 29062,
+                  "timestamp": 1569799163877,
+                  "rank": 87428
+               },
+               {
+                  "xpGain": 4227,
+                  "timestamp": 1571493238839,
+                  "rank": 104395
+               },
+               {
+                  "xpGain": 1819,
+                  "timestamp": 1573594841518,
+                  "rank": 91053
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 22,
+            "totalXp": 39941,
+            "averageXpGain": 3328,
+            "totalGain": 39938,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992950966,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671350966,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349750966,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768950966,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443750966,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035750966,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714150966,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306150966,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 1212,
+                  "timestamp": 1566949441554,
+                  "rank": 106600
+               },
+               {
+                  "xpGain": 4487,
+                  "timestamp": 1569771954352,
+                  "rank": 82819
+               },
+               {
+                  "xpGain": 34239,
+                  "timestamp": 1570101896182,
+                  "rank": 55714
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936950966,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 17,
+            "totalXp": 25878,
+            "averageXpGain": 2156,
+            "totalGain": 25873,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992952251,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671352251,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349752251,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768952251,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443752251,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035752251,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714152251,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306152251,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 18373,
+                  "timestamp": 1567195633977,
+                  "rank": 67635
+               },
+               {
+                  "xpGain": 7500,
+                  "timestamp": 1569771954342,
+                  "rank": 73720
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1571254952251,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936952251,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 7,
+            "totalXp": 11949,
+            "averageXpGain": 988,
+            "totalGain": 11856,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992953503,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671353503,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349753503,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768953503,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443753503,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035753503,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714153503,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306153503,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 2247,
+                  "timestamp": 1566949441537,
+                  "rank": 108256
+               },
+               {
+                  "xpGain": 9609,
+                  "timestamp": 1569546983196,
+                  "rank": 75917
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1571254953503,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936953503,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 15,
+            "totalXp": 9931,
+            "averageXpGain": 825,
+            "totalGain": 9900,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992954455,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671354455,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349754455,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768954455,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443754455,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035754455,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714154455,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306154455,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 2398,
+                  "timestamp": 1566949441546,
+                  "rank": 113369
+               },
+               {
+                  "xpGain": 1138,
+                  "timestamp": 1569687742857,
+                  "rank": 100692
+               },
+               {
+                  "xpGain": 6364,
+                  "timestamp": 1572081348689,
+                  "rank": 84789
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936954455,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 20,
+            "totalXp": 4120,
+            "averageXpGain": 343,
+            "totalGain": 4117,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992955174,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671355174,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349755174,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768955174,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443755174,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035755174,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714155174,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306155174,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 1153,
+                  "timestamp": 1566949441552,
+                  "rank": 124854
+               },
+               {
+                  "xpGain": 2964,
+                  "timestamp": 1569771954348,
+                  "rank": 88565
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1571254955174,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936955174,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 13,
+            "totalXp": 2518,
+            "averageXpGain": 148,
+            "totalGain": 1782,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992955916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671355916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349755916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768955916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443755916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035755916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714155916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306155916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 1782,
+                  "timestamp": 1566949441543,
+                  "rank": 133394
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1568662955916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1571254955916,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936955916,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 9,
+            "totalXp": 1602,
+            "averageXpGain": 0,
+            "totalGain": 0,
+            "monthData": []
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 6,
+            "totalXp": 1208,
+            "averageXpGain": 0,
+            "totalGain": 0,
+            "monthData": []
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 4,
+            "totalXp": 1176,
+            "averageXpGain": 84,
+            "totalGain": 1015,
+            "monthData": [
+               {
+                  "xpGain": 0,
+                  "timestamp": 1544992958070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1547671358070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1550349758070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1552768958070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1555443758070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1558035758070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1560714158070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1563306158070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 1015,
+                  "timestamp": 1566949441535,
+                  "rank": 128422
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1568662958070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1571254958070,
+                  "rank": 0
+               },
+               {
+                  "xpGain": 0,
+                  "timestamp": 1573936958070,
+                  "rank": 0
+               }
+            ]
+         }
+      ],
+      "loggedIn": "false"
+   },
+   {
+      "monthlyXpGain": [
+         {
+            "skillId": 26,
+            "totalXp": 0,
+            "averageXpGain": 0,
+            "totalGain": 0,
+            "monthData": []
+         }
+      ],
+      "loggedIn": "false"
+   }
+]

@@ -1,0 +1,590 @@
+{
+   "Runecrafting": [
+      {
+         "start_range": 1,
+         "end_range": 90,
+         "method": "Runesphere",
+         "xp/hr": 300000
+      },
+      {
+         "start_range": 90,
+         "end_range": 99,
+         "method": "soul alter",
+         "xp/hr": 300000
+      }
+   ],
+   "Divination": [
+      {
+         "start_range": 1,
+         "end_range": 45,
+         "method": "Cache",
+         "xp/hr": 50000
+      },
+      {
+         "start_range": 45,
+         "end_range": 85,
+         "method": "Cache",
+         "xp/hr": 300000
+      },
+      {
+         "start_range": 85,
+         "end_range": 92,
+         "method": "Cache",
+         "xp/hr": 600000
+      },
+      {
+         "start_range": 92,
+         "end_range": 99,
+         "method": "Cache",
+         "xp/hr": 900000
+      }
+   ],
+   "Hunter": [
+      {
+         "start_range": 1,
+         "end_range": 27,
+         "method": "Big Chinchompa",
+         "xp/hr": 10000
+      },
+      {
+         "start_range": 27,
+         "end_range": 46,
+         "method": "Cobalt Skillchompa",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 46,
+         "end_range": 68,
+         "method": "Viridian Skillchompa",
+         "xp/hr": 150000
+      },
+      {
+         "start_range": 68,
+         "end_range": 77,
+         "method": "Azure Skillchompa",
+         "xp/hr": 200000
+      },
+      {
+         "start_range": 77,
+         "end_range": 96,
+         "method": "Grenwalls",
+         "xp/hr": 300000
+      },
+      {
+         "start_range": 96,
+         "end_range": 99,
+         "method": "Ornate Tortle",
+         "xp/hr": 1000000
+      }
+   ],
+   "Agility": [
+      {
+         "start_range": 1,
+         "end_range": 18,
+         "method": "Gnome Stronghold Agility Course",
+         "xp/hr": 6800
+      },
+      {
+         "start_range": 18,
+         "end_range": 30,
+         "method": "Watchtower shortcut",
+         "xp/hr": 10000
+      },
+      {
+         "start_range": 30,
+         "end_range": 52,
+         "method": "Clockwork suits",
+         "xp/hr": 40000
+      },
+      {
+         "start_range": 52,
+         "end_range": 77,
+         "method": "Wilderness Agility Course",
+         "xp/hr": 36000
+      },
+      {
+         "start_range": 77,
+         "end_range": 99,
+         "method": "Hefin Agility Course",
+         "xp/hr": 110000
+      }
+   ],
+   "Construction": [
+      {
+         "start_range": 1,
+         "end_range": 19,
+         "method": "Wooden chairs",
+         "xp/hr": 10000
+      },
+      {
+         "start_range": 19,
+         "end_range": 33,
+         "method": "Oak chairs",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 33,
+         "end_range": 38,
+         "method": "Oak Larders",
+         "xp/hr": 50000
+      },
+      {
+         "start_range": 38,
+         "end_range": 63,
+         "method": "Teak Tables",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 63,
+         "end_range": 99,
+         "method": "Driftwood prawnbroker",
+         "xp/hr": 600000
+      }
+   ],
+   "Thieving": [
+      {
+         "start_range": 1,
+         "end_range": 5,
+         "method": "Pompous merchants",
+         "xp/hr": 6000
+      },
+      {
+         "start_range": 5,
+         "end_range": 15,
+         "method": "Bakery stalls",
+         "xp/hr": 11000
+      },
+      {
+         "start_range": 15,
+         "end_range": 41,
+         "method": "Thieves Guild Jail doors",
+         "xp/hr": 60000
+      },
+      {
+         "start_range": 41,
+         "end_range": 62,
+         "method": "Coshing Volunteers",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 62,
+         "end_range": 76,
+         "method": "Safecracking in Misthalin",
+         "xp/hr": 300000
+      },
+      {
+         "start_range": 76,
+         "end_range": 83,
+         "method": "Safecraking in Asgarnia",
+         "xp/hr": 400000
+      },
+      {
+         "start_range": 83,
+         "end_range": 99,
+         "method": "Safecraking in Kandarin",
+         "xp/hr": 700000
+      }
+   ],
+   "Woodcutting": [
+      {
+         "start_range": 1,
+         "end_range": 15,
+         "method": "Regular trees",
+         "xp/hr": 14500
+      },
+      {
+         "start_range": 15,
+         "end_range": 30,
+         "method": "Oak trees",
+         "xp/hr": 19000
+      },
+      {
+         "start_range": 30,
+         "end_range": 35,
+         "method": "Willow trees",
+         "xp/hr": 27000
+      },
+      {
+         "start_range": 35,
+         "end_range": 99,
+         "method": "Teak trees",
+         "xp/hr": 70000
+      }
+   ],
+   "Cooking": [
+      {
+         "start_range": 1,
+         "end_range": 60,
+         "method": "c2 fishing/cooking",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 60,
+         "end_range": 96,
+         "method": "Menaphos fishing/cooking",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 96,
+         "end_range": 99,
+         "method": "Wobbagong contracts",
+         "xp/hr": 2000000
+      }
+   ],
+   "Crafting": [
+      {
+         "start_range": 1,
+         "end_range": 99,
+         "method": "dg crafting",
+         "xp/hr": 100000
+      }
+   ],
+   "Firemaking": [
+      {
+         "start_range": 1,
+         "end_range": 15,
+         "method": "normal logs",
+         "xp/hr": 10000
+      },
+      {
+         "start_range": 15,
+         "end_range": 30,
+         "method": "Oak logs",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 30,
+         "end_range": 35,
+         "method": "Willow logs",
+         "xp/hr": 40000
+      },
+      {
+         "start_range": 35,
+         "end_range": 45,
+         "method": "Teak logs",
+         "xp/hr": 50000
+      },
+      {
+         "start_range": 45,
+         "end_range": 74,
+         "method": "Bonline Firemaking(Maples)",
+         "xp/hr": 250000
+      },
+      {
+         "start_range": 74,
+         "end_range": 99,
+         "method": "Book of Char(Maples)",
+         "xp/hr": 1500000
+      }
+   ],
+   "Fishing": [
+      {
+         "start_range": 1,
+         "end_range": 60,
+         "method": "c2 fishing/cooking",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 60,
+         "end_range": 96,
+         "method": "Menaphos fishing",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 96,
+         "end_range": 99,
+         "method": "Wobbagongs",
+         "xp/hr": 200000
+      }
+   ],
+   "Dungeoneering": [
+      {
+         "start_range": 1,
+         "end_range": 99,
+         "method": "dg crafting",
+         "xp/hr": 100000
+      }
+   ],
+   "Farming": [
+      {
+         "start_range": 1,
+         "end_range": 75,
+         "method": "Tree runs",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 75,
+         "end_range": 99,
+         "method": "Tree runs",
+         "xp/hr": 1000000
+      }
+   ],
+   "Fletching": [
+      {
+         "start_range": 1,
+         "end_range": 45,
+         "method": "headless arrows",
+         "xp/hr": 45000
+      },
+      {
+         "start_range": 45,
+         "end_range": 52,
+         "method": "arrow shafts(maples)",
+         "xp/hr": 35000
+      },
+      {
+         "start_range": 52,
+         "end_range": 96,
+         "method": "broads",
+         "xp/hr": 300000
+      },
+      {
+         "start_range": 96,
+         "end_range": 99,
+         "method": "golden bamboo contracts",
+         "xp/hr": 1000000
+      }
+   ],
+   "Herblore": [
+      {
+         "start_range": 1,
+         "end_range": 75,
+         "method": "Make stuff idk",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 75,
+         "end_range": 99,
+         "method": "overloads and whatev",
+         "xp/hr": 500000
+      }
+   ],
+   "Invention": [
+      {
+         "start_range": 1,
+         "end_range": 4,
+         "method": "Tutorial",
+         "xp/hr": 10000
+      },
+      {
+         "start_range": 4,
+         "end_range": 27,
+         "method": "augment 2 items and disassemblem them once fully leved",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 27,
+         "end_range": 99,
+         "method": "Equipment Siphons(Use on fully leveled augmented item)",
+         "xp/hr": 10000000
+      }
+   ],
+   "Magic": [
+      {
+         "start_range": 1,
+         "end_range": 60,
+         "method": "Warped cockroach",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 60,
+         "end_range": 80,
+         "method": "Abyss",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 80,
+         "end_range": 99,
+         "method": "Slayer",
+         "xp/hr": 300000
+      }
+   ],
+   "Attack": [
+      {
+         "start_range": 1,
+         "end_range": 60,
+         "method": "Warped cockroach",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 60,
+         "end_range": 80,
+         "method": "Abyss w/dragon hally",
+         "xp/hr": 150000
+      },
+      {
+         "start_range": 80,
+         "end_range": 99,
+         "method": "Slayer",
+         "xp/hr": 300000
+      }
+   ],
+   "Strength": [
+      {
+         "start_range": 1,
+         "end_range": 60,
+         "method": "Warped cockroach",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 60,
+         "end_range": 80,
+         "method": "Abyss w/dragon hally",
+         "xp/hr": 150000
+      },
+      {
+         "start_range": 80,
+         "end_range": 99,
+         "method": "Slayer",
+         "xp/hr": 300000
+      }
+   ],
+   "Defence": [
+      {
+         "start_range": 1,
+         "end_range": 60,
+         "method": "Warped cockroach",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 60,
+         "end_range": 80,
+         "method": "Abyss w/dragon hally",
+         "xp/hr": 150000
+      },
+      {
+         "start_range": 80,
+         "end_range": 99,
+         "method": "Slayer",
+         "xp/hr": 300000
+      }
+   ],
+   "Ranged": [
+      {
+         "start_range": 1,
+         "end_range": 50,
+         "method": "Warped cockroach",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 50,
+         "end_range": 99,
+         "method": "Slayer",
+         "xp/hr": 300000
+      }
+   ],
+   "Prayer": [
+      {
+         "start_range": 1,
+         "end_range": 75,
+         "method": "Dragon bones w/gilded alter",
+         "xp/hr": 200000
+      },
+      {
+         "start_range": 75,
+         "end_range": 99,
+         "method": "Hefin prayer",
+         "xp/hr": 350000
+      }
+   ],
+   "Slayer": [
+      {
+         "start_range": 1,
+         "end_range": 9,
+         "method": "Museum quiz",
+         "xp/hr": 1000
+      },
+      {
+         "start_range": 9,
+         "end_range": 50,
+         "method": "Corrupted Scarabs(Menaphos)",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 50,
+         "end_range": 99,
+         "method": "Slayer",
+         "xp/hr": 300000
+      }
+   ],
+   "Summoning": [
+      {
+         "start_range": 1,
+         "end_range": 16,
+         "method": "Tears of Guthix(D&D)",
+         "xp/hr": 10000
+      },
+      {
+         "start_range": 16,
+         "end_range": 28,
+         "method": "Granite crab",
+         "xp/hr": 30000
+      },
+      {
+         "start_range": 28,
+         "end_range": 46,
+         "method": "Granite crab, Compost mound",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 46,
+         "end_range": 49,
+         "method": "Pyrelord, Compost mound, Granite crab",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 49,
+         "end_range": 52,
+         "method": "Bloated leech, compost mound, Granite crab",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 52,
+         "end_range": 56,
+         "method": "Bloated leech, Compost mound, Terrorbird",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 56,
+         "end_range": 74,
+         "method": "Bloated leech, Ibis, Terrorbird",
+         "xp/hr": 100000
+      },
+      {
+         "start_range": 74,
+         "end_range": 96,
+         "method": "Granite lobster, Ibis, Terrorbird",
+         "xp/hr": 300000
+      },
+      {
+         "start_range": 96,
+         "end_range": 99,
+         "method": "Pack yak, Ibis, Terrorbird",
+         "xp/hr": 4500000
+      }
+   ],
+   "Constitution": [
+      {
+         "start_range": 1,
+         "end_range": 99,
+         "method": "nothing for now",
+         "xp/hr": 10000000
+      }
+   ],
+   "Mining": [
+      {
+         "start_range": 1,
+         "end_range": 99,
+         "method": "nothing for now",
+         "xp/hr": 100000
+      }
+   ],
+   "Smithing": [
+      {
+         "start_range": 1,
+         "end_range": 99,
+         "method": "nothing for now",
+         "xp/hr": 100000
+      }
+   ]
+}
